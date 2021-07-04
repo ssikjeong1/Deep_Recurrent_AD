@@ -1,4 +1,4 @@
-# Deep Recurrent Model for Individualized Prediction of Alzheimer’s Disease Progression
+## Deep Recurrent Model for Individualized Prediction of Alzheimer’s Disease Progression
 This repository contains code to train __Deep Recurrent AD__.
 
 ## Usage
