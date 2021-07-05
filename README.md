@@ -16,8 +16,9 @@ This repository provides the official PyTorch implementation of the following pa
 * [TensorFlow 1.3+](https://www.tensorflow.org/) (optional for tensorboard)
 
 ## Downloading datasets
-To download the TADPOLE dataset:
-
+To download the TADPOLE dataset
+* https://tadpole.grand-challenge.org/Data/#Data
+* https://github.com/tadpole-share/TADPOLE-share
 
 ## Usage
 For training:
