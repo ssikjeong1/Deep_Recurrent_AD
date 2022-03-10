@@ -158,7 +158,7 @@ def sample_loader(data, mask, label, batch_size, is_train=False):
         # values = data[i].copy()
 
         ## Check this part
-        # values[indices] = np.nan
+        values[indices] = np.nan
 
         # masks = np.ones_like(tmp_ori_values)
         # masks[np.where(tmp_ori_values == 0)] = 0
